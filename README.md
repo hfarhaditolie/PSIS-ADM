@@ -23,14 +23,14 @@ This repository contains collected sonar data during the experiments with their 
 ---
 
 <p align="center">
-  <img src="https://hamidrezafarhadi.com/publications/Images/PSIS/framework.PNG" alt="Framework Overview" width="400">
+  <img src="https://hamidrezafarhadi.com/publications/Images/PSIS/framework.PNG" alt="Framework Overview" width="500">
   <br>
-  <em>Figure 1: Framework Overview</em>
+  <em>Figure 1: General framework of the proposed methodology using SAM</em>
 </p>
 
 <p align="center">
-  <img src="https://hamidrezafarhadi.com/publications/Images/PSIS/watertank.PNG" alt="Watertank Setup" width="400">
+  <img src="https://hamidrezafarhadi.com/publications/Images/PSIS/watertank.PNG" alt="Watertank Setup" width="500">
   <br>
-  <em>Figure 2: Watertank Setup</em>
+  <em>Figure 2: A schematic diagram of the testing environment within a water tank</em>
 </p>
 
