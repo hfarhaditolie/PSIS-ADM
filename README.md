@@ -9,7 +9,7 @@
 
 <hr>
 
-<a href=''><img src='https://img.shields.io/badge/%20PSIS-ADM%20-%20Paper?label=Manuscript&labelColor=(255%2C0%2C0)&color=red' alt='Will be available soon!'></a>
+<a href=''><img src='https://img.shields.io/badge/%20PSIS%20-%20Paper?label=Manuscript&labelColor=(255%2C0%2C0)&color=red' alt='Will be available soon!'></a>
 <br>
 
 </div>
