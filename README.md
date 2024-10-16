@@ -17,16 +17,20 @@
 This repository contains collected sonar data during the experiments with their associated ground-truth distance measurements.
 
 
-
-
-
-
 ## Abstract
 
 > The subsea environment presents numerous challenges for robotic vision, including non-uniform light attenuation, backscattering, floating particles, and low-light conditions, which significantly degrade underwater images. This degradation impacts robotic operations that heavily rely on environmental feedback. However, these limitations can be mitigated using sonar imaging, which employs sound pulses instead of light. In this paper, we explore the use of small, affordable sonar devices for automatic target object localization and distance measurement. Specifically, we propose using a promptable image segmentation method to identify target objects within sonar images, leveraging its ability to identify connected components without requiring labeled datasets. Through laboratory experiments, we analyzed the usability of the Ping360 single-beam sonar and verified the effectiveness of our approach in the automatic identification and distance measurement of objects made from various materials.
 ---
 
-![Image Description](https://hamidrezafarhadi.com/publications/Images/PSIS/framework.PNG)
+<p align="center">
+  <img src="https://hamidrezafarhadi.com/publications/Images/PSIS/framework.PNG" alt="Framework Overview" width="400">
+  <br>
+  <em>Figure 1: Framework Overview</em>
+</p>
 
-![Image Description](https://hamidrezafarhadi.com/publications/Images/PSIS/watertank.PNG)
+<p align="center">
+  <img src="https://hamidrezafarhadi.com/publications/Images/PSIS/watertank.PNG" alt="Watertank Setup" width="400">
+  <br>
+  <em>Figure 2: Watertank Setup</em>
+</p>
 
