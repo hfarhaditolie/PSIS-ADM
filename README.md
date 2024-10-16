@@ -1,11 +1,11 @@
 <div align="center">
 
 # Promptable Sonar Image Segmentation for Distance Measurement using SAM
-[**Hamidreza Farhadi Tolie**](https://scholar.google.com/citations?user=nzCbjWIAAAAJ&hl=en&authuser=1)<sup>a</sup> · [**Jinchang Ren**](https://scholar.google.co.uk/citations?user=Vsx9P-gAAAAJ&hl=en)<sup>a</sup> · [**Md Junayed Hasan**]([https://scholar.google.co.uk/citations?user=m3-aOvsAAAAJ&hl=en](https://scholar.google.com/citations?user=6dp1PZAAAAAJ&hl=en))<sup>a</sup><sup>b</sup>
+[**Hamidreza Farhadi Tolie**](https://scholar.google.com/citations?user=nzCbjWIAAAAJ&hl=en&authuser=1)<sup>a</sup> · [**Jinchang Ren**](https://scholar.google.co.uk/citations?user=Vsx9P-gAAAAJ&hl=en)<sup>a</sup> · [**Md Junayed Hasan**](https://scholar.google.com/citations?user=6dp1PZAAAAAJ&hl=en)<sup>a</sup> · [**Somasundar Kannan**](https://scholar.google.com/citations?user=-GDIrlMAAAAJ&hl=en)<sup>a</sup> <sup>b</sup>
 
 <sup>a</sup> National Subsea Centre, Robert Gordon University, UK
 
-<sup>b</sup> School of Computing, Robert Gordon University, UK
+<sup>b</sup> School of Computing, Engineering, and Technology, Robert Gordon University, UK
 
 <hr>
 
