@@ -1,7 +1,7 @@
 <div align="center">
 
 # Promptable Sonar Image Segmentation for Distance Measurement using SAM
-[**Hamidreza Farhadi Tolie**](https://scholar.google.com/citations?user=nzCbjWIAAAAJ&hl=en&authuser=1)<sup>a</sup>,<sup>b</sup> · [**Jinchang Ren**](https://scholar.google.co.uk/citations?user=Vsx9P-gAAAAJ&hl=en)<sup>a</sup>,<sup>b</sup> · [**Md Junayed Hasan**](https://scholar.google.com/citations?user=6dp1PZAAAAAJ&hl=en)<sup>a</sup>,<sup>b</sup> · [**Somasundar Kannan**](https://scholar.google.com/citations?user=-GDIrlMAAAAJ&hl=en)<sup>b</sup> · [**Nazila Fough**](https://rgu-repository.worktribe.com/person/74551/nazila-fough)<sup>b</sup>
+[**Hamidreza Farhadi Tolie**](https://scholar.google.com/citations?user=nzCbjWIAAAAJ&hl=en&authuser=1)<sup>a, b</sup> · [**Jinchang Ren**](https://scholar.google.co.uk/citations?user=Vsx9P-gAAAAJ&hl=en)<sup>a, b</sup> · [**Md Junayed Hasan**](https://scholar.google.com/citations?user=6dp1PZAAAAAJ&hl=en)<sup>a, b</sup> · [**Somasundar Kannan**](https://scholar.google.com/citations?user=-GDIrlMAAAAJ&hl=en)<sup>b</sup> · [**Nazila Fough**](https://rgu-repository.worktribe.com/person/74551/nazila-fough)<sup>b</sup>
 
 <sup>a</sup> National Subsea Centre, Robert Gordon University, UK
 
