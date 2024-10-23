@@ -37,39 +37,15 @@ This repository contains collected sonar data during the experiments with their 
 ## Usage
 To utilize the DICAM method for training, please follow these steps:
 
-1. Download the UIEB and EUVP datasets from their respective sources.
-   - For UIEB dataset, refer to the instructions provided in [UIEB dataset README](https://github.com/hfarhaditolie/DICAM/blob/main/Data/UIEB/readme.md).
-   - For EUVP dataset, refer to the instructions provided in [EUVP dataset README](https://github.com/hfarhaditolie/DICAM/blob/main/Data/EUVP/readme.md).
+1. Download the Segment-Anything model and checkpoints from its respective source.
+   - [Segment-Anything](https://github.com/facebookresearch/segment-anything/tree/main?tab=readme-ov-file#installation)
    
-2. Place the downloaded datasets in the 'Data/' directory of the DICAM repository, following the descriptions provided in each dataset's README.
+2. Run the _offline_detector.py_ script to generate the SONAR image from the shared data and then produce the detection result.
 
-3. Navigate to the 'UIEB/' directory for UIEB dataset or 'EUVP/' directory for EUVP dataset.
-
-4. Run the _train_uieb.py_ script for UIEB dataset or _train_euvp.py_ script for EUVP dataset.
-
+3. Run the _acquisition_detection.py_ script to have real-time data acquistion and target detection using Ping360 and Segment-Anything, respectively.
+## Dependencies
 ```bash
-python3 UIEB/train_uieb.py
-```
-```bash
-python3 EUVP/train_euvp.py
-```
-
----
-To utilize the DICAM method for testing, please follow these steps:
-
-1. After downloading the datasets, navigate to the 'UIEB/' directory for UIEB dataset or 'EUVP/' directory for EUVP dataset.
-
-2. Run the _test_uieb.py_ script for UIEB dataset or _test_euvp.py_ script for EUVP dataset.
-
-```bash
-python3 UIEB/test_uieb.py
-```
-```bash
-python3 EUVP/test_euvp.py
-```
----
-To get the histogram evaluation, you need to run the _hist_distance.m_ script and specify the path for the generated enhanced images and their corresponding ground-truth ones.
-
+[Ping-Python](https://github.com/bluerobotics/ping-python)
 ## Citation
 ```bash
 Will be available soon
