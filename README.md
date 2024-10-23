@@ -45,7 +45,7 @@ To utilize the DICAM method for training, please follow these steps:
 3. Run the _acquisition_detection.py_ script to have real-time data acquistion and target detection using Ping360 and Segment-Anything, respectively.
 ## Dependencies
 ```bash
-[Ping-Python](https://github.com/bluerobotics/ping-python)
+Ping-Python -> https://github.com/bluerobotics/ping-python
 ```
 ## Citation
 ```bash
