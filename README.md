@@ -49,7 +49,16 @@ Ping-Python -> https://github.com/bluerobotics/ping-python
 ```
 ## Citation
 ```bash
-Will be available soon
+@INPROCEEDINGS{10765703,
+  author={Tolie, Hamidreza Farhadi and Ren, Jinchang and Hasan, Md. Junayed and Kannan, Somasundar and Fough, Nazila},
+  booktitle={2024 IEEE International Workshop on Metrology for the Sea; Learning to Measure Sea Health Parameters (MetroSea)}, 
+  title={Promptable Sonar Image Segmentation for Distance Measurement Using SAM}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={229-233},
+  keywords={Water;Image segmentation;Accuracy;Thresholding (Imaging);Sonar measurements;Storage management;Sea measurements;Distance measurement;Object recognition;Usability;Sonar image segmentation;distance measurement;Ping360;single-beam sonar},
+  doi={10.1109/MetroSea62823.2024.10765703}}
 ```
 ## Feedback
 If you have any enquires or feedback, please do not hesitate to contact us via @(h.farhadi-tolie@rgu.ac.uk, h.farhaditolie@gmail.com)
